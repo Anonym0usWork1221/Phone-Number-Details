@@ -28,8 +28,6 @@ To get details of target phone number.
 ``python3 phone_num.py``  
 
 # OutPut Sample
-<br>
-<br>
 <p align="center">
   <img src="https://github.com/Anonym0usWork1221/Phone-Number-Details/blob/main/out_sample.png"  title="Phone-Number-Details">
 </p>
